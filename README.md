@@ -59,7 +59,7 @@ O projeto consiste em uma aplicação de cadastro de funcionários conectada a u
   </p>
   <h4> 6° Passo: </h4>
   <p> Nesse passo iremos configurar o MySQL, faça extamente TUDO IGUAL ao que irá se pedir a seguir: </p>
-  <p> Com o APACHE e o MySQL startados, clique na opção "Admin" </p>
+  <p> Com o APACHE e o MySQL startados, clique na opção "Admin". </p>
   <p>
   <img alt="Happy" src="https://user-images.githubusercontent.com/66326378/138569724-c6cd31b4-1328-4d2d-abb1-c590185d50b9.png" width="40%">
   </p>
@@ -67,7 +67,7 @@ O projeto consiste em uma aplicação de cadastro de funcionários conectada a u
   <p>
   <img alt="Happy" src="https://user-images.githubusercontent.com/66326378/138569780-05d529d3-32ee-439f-817a-6152c66d7642.png" width="40%">
   </p>
-  <p> Ao criar o banco de dados, crie duas tabelas, que serão denominadas dadosfunc e cargofunc, deve conter os campos a seguir EXATAMENTE IGUAIS (nome, valores e etc) </p>
+  <p> Ao criar o banco de dados, crie duas tabelas, que serão denominadas dadosfunc e cargofunc, deve conter os campos a seguir EXATAMENTE IGUAIS (nome, valores e etc). </p>
   <p>
   <img alt="Happy" src="https://user-images.githubusercontent.com/66326378/138569877-0c61933d-cfbd-4072-8f92-5bd70b0fa16b.png" width="40%">
   </p>
@@ -80,7 +80,7 @@ O projeto consiste em uma aplicação de cadastro de funcionários conectada a u
   <img alt="Happy" src="https://user-images.githubusercontent.com/66326378/138569956-f8773acf-8725-40b6-b464-9abcb6af2d0e.png" width="80%">
   </p>
   <h4> 7° Passo: </h4>
-  <p> Neste passo, iremos começar a rodar o projeto </p>
+  <p> Neste passo, iremos começar a rodar o projeto. </p>
   <p> Primeiro baixe o projeto pelo repositório ou pelo ZIP enviado via email e faça a extração da pasta em algum lugar e siga o passo a passo: </p>
   <p>
   <img alt="Happy" src="https://user-images.githubusercontent.com/66326378/138570169-ee0bef59-f89f-41a2-9b94-bdbfa13a4f4e.png" width="40%">
@@ -92,7 +92,7 @@ O projeto consiste em uma aplicação de cadastro de funcionários conectada a u
   <p>
   <img alt="Happy" src="https://user-images.githubusercontent.com/66326378/138570218-99e3b69b-224b-4603-b416-0f183b96661a.png" width="40%">
   </p>
-  <h4> Mova a pasta do projeto (emrcrud) para dentro da htdocs</h4>
+  <h4> Mova a pasta do projeto (emrcrud) para dentro da htdocs.</h4>
    <p>
   <img alt="Happy" src="https://user-images.githubusercontent.com/66326378/138570258-1dcc4db3-7fc6-4c3a-8054-dc6a7f707b12.png" width="40%">
   </p>
@@ -102,7 +102,7 @@ O projeto consiste em uma aplicação de cadastro de funcionários conectada a u
   <p>
   <img alt="Happy" src="https://user-images.githubusercontent.com/66326378/138570395-cba83c5c-2e46-45c4-ae72-fe61970ea9d8.png" width="40%">
   </p>
-  <p> Ao clicar na pasta emrcrud você deverá ver essa tela: .</p>
+  <p> Ao clicar na pasta emrcrud você deverá ver essa tela: </p>
   <p>
   <img alt="Happy" src="https://user-images.githubusercontent.com/66326378/138570424-4295fa8d-bec4-42dd-bd10-cbf4df79bf34.png" width="80%">
   </p>
