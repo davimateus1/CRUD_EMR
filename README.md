@@ -18,7 +18,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O projeto consiste em uma aplicação de cadastro de funcionários conectada a um banco de dados, você pode cadastrar, alterar, ver e apagar dados de funcionários e observar essas alterações no seu banco de dados.
+O projeto consiste em uma aplicação de cadastro de funcionários conectada a um banco de dados, você pode fazer qualquer operação CRUD utilizando os dados de funcionários e observar essas alterações no seu banco de dados.
 
 <br>
 <br>
