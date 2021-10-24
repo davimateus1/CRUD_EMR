@@ -11,6 +11,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [CSS3](https://www.w3schools.com/css/)
 - [HTML5](https://www.devmedia.com.br/o-que-e-o-html5/25820)
 - [Bootstrap](https://getbootstrap.com.br)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [MySQL](https://www.mysql.com)
 
 <br>
