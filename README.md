@@ -67,7 +67,7 @@ O projeto consiste em uma aplicação de cadastro de funcionários conectada a u
   <p>
   <img alt="Happy" src="https://user-images.githubusercontent.com/66326378/138569780-05d529d3-32ee-439f-817a-6152c66d7642.png" width="40%">
   </p>
-  <p> Ao criar o banco de dados, crie duas tabelas, que serão denominadas dadosfunc e cargofunc, deve conter os campos a seguir EXATAMENTE IGUAIS (nome, valores e etc). </p>
+  <p> Ao criar o banco de dados, crie duas tabelas que serão denominadas dadosfunc e cargofunc, deve conter os campos a seguir EXATAMENTE IGUAIS (nome, valores e etc). </p>
   <p>
   <img alt="Happy" src="https://user-images.githubusercontent.com/66326378/138569877-0c61933d-cfbd-4072-8f92-5bd70b0fa16b.png" width="40%">
   </p>
@@ -81,7 +81,7 @@ O projeto consiste em uma aplicação de cadastro de funcionários conectada a u
   </p>
   <h4> 7° Passo: </h4>
   <p> Neste passo, iremos começar a rodar o projeto. </p>
-  <p> Primeiro baixe o projeto pelo repositório ou pelo ZIP enviado via email e faça a extração da pasta em algum lugar e siga o passo a passo: </p>
+  <p> Primeiro baixe o projeto pelo repositório ou pelo ZIP enviado via email, faça a extração da pasta em algum lugar e siga o passo a passo: </p>
   <p>
   <img alt="Happy" src="https://user-images.githubusercontent.com/66326378/138570169-ee0bef59-f89f-41a2-9b94-bdbfa13a4f4e.png" width="40%">
   </p>
@@ -97,7 +97,7 @@ O projeto consiste em uma aplicação de cadastro de funcionários conectada a u
   <img alt="Happy" src="https://user-images.githubusercontent.com/66326378/138570258-1dcc4db3-7fc6-4c3a-8054-dc6a7f707b12.png" width="40%">
   </p>
   <h4> 8° Passo: </h4>
-  <p> Chegou a hora de executar o projeto, para isso, siga os ultimos passos: </p>
+  <p> Chegou a hora de executar o projeto, para isso, siga os últimos passos: </p>
   <p> Com o APACHE e o MySQL ativos no XAMPP, digite o nome localhost na sua barra de pesquisa do navegador.</p>
   <p>
   <img alt="Happy" src="https://user-images.githubusercontent.com/66326378/138570395-cba83c5c-2e46-45c4-ae72-fe61970ea9d8.png" width="40%">
