@@ -91,7 +91,7 @@ if (isset($_POST['submit'])) {
                 <label>Salário</label>
                 <div id="inputs">
 
-                    <input type="number" id="salario" class="form-control" placeholder="Informe seu salário" name="salario">
+                    <input type="number" id="salario" class="form-control" placeholder="Informe seu salário" name="salario" required>
                 </div>
             </div>
 
