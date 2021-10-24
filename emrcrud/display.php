@@ -13,7 +13,7 @@ include 'Connection/conexao.php';
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/style.css" />
-    <link rel="shortcut icon" href="assets/favicon.ico" />
+    <link rel="shortcut icon" href="assets/img/favicon.ico" />
 
     <title>CRUD - Cadastro Funcionários</title>
 </head>

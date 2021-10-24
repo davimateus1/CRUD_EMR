@@ -39,7 +39,7 @@ if (isset($_POST['submit'])) {
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
 
-    <link rel="shortcut icon" href="assets/favicon.ico" type="image/x-icon" />
+    <link rel="shortcut icon" href="assets/img/favicon.ico" type="image/x-icon" />
 
     <link rel="stylesheet" href="assets/style.css" />
     <title>CRUD - Cadastro Funcionários</title>
@@ -54,7 +54,7 @@ if (isset($_POST['submit'])) {
             <div class="form-group">
                 <label>Descrição</label>
                 <div id="inputs">
-                    <input required type="text" class="form-control" placeholder="Nos fale mais sobre o seu cargo" name="descricao" value=<?php
+                    <input required type="text" id="descricao" class="form-control" placeholder="Nos fale mais sobre o seu cargo" name="descricao" value=<?php
                                                                                                                                             echo $descricao;
                                                                                                                                             ?>>
                 </div>
@@ -63,13 +63,13 @@ if (isset($_POST['submit'])) {
             <div class="form-group">
                 <label>Atividades</label>
                 <div id="inputs">
-                    <input required type="text" class="form-control" placeholder="Informe suas atividades neste cargo" name="atividades" value=<?php
+                    <input required type="text" id="atividades" class="form-control" placeholder="Informe suas atividades neste cargo" name="atividades" value=<?php
                                                                                                                                                 echo $atividade;
                                                                                                                                                 ?>>
                 </div>
             </div>
 
-            <button name="submit" type="submit" class="btn btn-primary">Update</button>
+            <button name="submit" type="submit" class="btn btn-primary" onclick="validar()">Update</button>
         </form>
         <button class="btn btn-danger mt-3">
             <a style="text-decoration: none;" href="display.php" class="text-light">
@@ -79,5 +79,26 @@ if (isset($_POST['submit'])) {
     </div>
 
 </body>
+
+<!-- JAVASCRIPT -->
+<script>
+    function validar() {
+        var descricao = document.getElementById("descricao");
+        var atividades = document.getElementById("atividades");
+
+        if (descricao.value == "") {
+            alert("Descrição não informada");
+            descricao.focus();
+            return;
+        }
+        if (atividades.value == "") {
+            alert("Atividades não informadas");
+            descricao.focus();
+            return;
+        }
+        alert("Cargo atualizado com sucesso!");
+    }
+</script>
+<!--------------->
 
 </html>
