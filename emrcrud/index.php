@@ -24,7 +24,7 @@
         </h3>
     </div>
     <div class="row align-center justify-content-center">
-        <img src="assets/emr.png" alt="logo emr">
+        <img src="assets/img/emr.png" alt="logo emr">
     </div>
     <div class="row align-center justify-content-center">
         <button class="btn btn-success">
