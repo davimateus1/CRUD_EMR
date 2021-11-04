@@ -1,2 +1,2 @@
-<?php 
-$con=new mysqli('localhost','root','root', 'crudemr');
+<?php
+$con = new mysqli('localhost', 'root', 'root', 'crudemr');

@@ -2,7 +2,7 @@
 include 'Connection/conexao.php';
 
 $id = $_GET['updateid'];
-$sql = "Select * from `dadosfunc` where  id=$id";
+$sql = "Select * from `dadosfunc` where id=$id";
 $result = mysqli_query($con, $sql);
 $row = mysqli_fetch_assoc($result);
 
@@ -65,8 +65,8 @@ if (isset($_POST['submit'])) {
                 <label>Nome</label>
                 <div id="inputs">
                     <input required type="text" id="nome" class="form-control" placeholder="Informe seu nome" name="nome" value=<?php
-                                                                                                                        echo $nome;
-                                                                                                                        ?>>
+                                                                                                                                echo $nome;
+                                                                                                                                ?>>
                 </div>
             </div>
 
@@ -74,8 +74,8 @@ if (isset($_POST['submit'])) {
                 <label>Sobrenome</label>
                 <div id="inputs">
                     <input required type="text" id="sobrenome" class="form-control" placeholder="Informe seu sobrenome" name="sobrenome" value=<?php
-                                                                                                                                echo $sobrenome;
-                                                                                                                                ?>>
+                                                                                                                                                echo $sobrenome;
+                                                                                                                                                ?>>
                 </div>
             </div>
 
@@ -83,8 +83,8 @@ if (isset($_POST['submit'])) {
                 <label>Cargo</label>
                 <div id="inputs">
                     <input required type="text" id="cargo" class="form-control" placeholder="Informe seu cargo" name="cargo" value=<?php
-                                                                                                                        echo $cargo;
-                                                                                                                        ?>>
+                                                                                                                                    echo $cargo;
+                                                                                                                                    ?>>
                 </div>
             </div>
 
@@ -92,8 +92,8 @@ if (isset($_POST['submit'])) {
                 <label>Data de Nascimento</label>
                 <div id="inputs">
                     <input required type="date" id="nascimento" class="form-control" name="nascimento" value=<?php
-                                                                                                echo $nascimento;
-                                                                                                ?>>
+                                                                                                                echo $nascimento;
+                                                                                                                ?>>
                 </div>
             </div>
 
@@ -101,8 +101,8 @@ if (isset($_POST['submit'])) {
                 <label>Data de Admissão</label>
                 <div id="inputs">
                     <input required type="date" id="admissao" class="form-control" name="admissao" value=<?php
-                                                                                            echo $admissao;
-                                                                                            ?>>
+                                                                                                            echo $admissao;
+                                                                                                            ?>>
                 </div>
             </div>
 
@@ -110,8 +110,8 @@ if (isset($_POST['submit'])) {
                 <label>Salário</label>
                 <div id="inputs">
                     <input required type="number" id="salario" class="form-control" placeholder="Informe seu salário" name="salario" value=<?php
-                                                                                                                        echo $salario;
-                                                                                                                        ?>>
+                                                                                                                                            echo $salario;
+                                                                                                                                            ?>>
                 </div>
             </div>
 

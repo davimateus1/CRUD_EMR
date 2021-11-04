@@ -52,6 +52,7 @@ include 'Connection/conexao.php';
                         $nascimento = $row['nascimento'];
                         $admissao = $row['admissao'];
                         $salario = $row['salario'];
+                        
                         echo '
                         
                         <tr>
