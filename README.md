@@ -1,5 +1,5 @@
 
-<h1 align="center"> Cadastro de Funcionários EMR </h1>
+<h1 align="center"> Cadastro de Funcionários </h1>
 
 <br> <br>
 
@@ -103,9 +103,6 @@ O projeto consiste em uma aplicação de cadastro de funcionários conectada a u
   <p>
   <img alt="Happy" src="https://user-images.githubusercontent.com/66326378/138570395-cba83c5c-2e46-45c4-ae72-fe61970ea9d8.png" width="40%">
   </p>
-  <p> Ao clicar na pasta emrcrud você deverá ver essa tela: </p>
-  <p>
-  <img alt="Happy" src="https://user-images.githubusercontent.com/66326378/138570424-4295fa8d-bec4-42dd-bd10-cbf4df79bf34.png" width="80%">
-  </p>
+  <p> Clique na pasta crudemr e teste o sistema! </p>
   <h3 align="center"> Pronto! agora basta testar as funcionalidades da aplicação e ver os dados sendo Gravados, alterados ou apagados no banco de dados MySQL.</h3>
 </div>
